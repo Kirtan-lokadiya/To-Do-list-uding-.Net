@@ -1,0 +1,62 @@
+.
+├── Controllers
+│   └── ToDoController.cs
+├── Models
+│   └── ToDoItem.cs
+├── Program.cs
+├── Properties
+│   └── launchSettings.json
+├── ToDoApi.csproj
+├── ToDoApi.http
+├── appsettings.Development.json
+├── appsettings.json
+├── bin
+│   └── Debug
+│       └── net8.0
+│           ├── Microsoft.AspNetCore.OpenApi.dll
+│           ├── Microsoft.OpenApi.dll
+│           ├── Swashbuckle.AspNetCore.Swagger.dll
+│           ├── Swashbuckle.AspNetCore.SwaggerGen.dll
+│           ├── Swashbuckle.AspNetCore.SwaggerUI.dll
+│           ├── ToDoApi
+│           ├── ToDoApi.deps.json
+│           ├── ToDoApi.dll
+│           ├── ToDoApi.pdb
+│           ├── ToDoApi.runtimeconfig.json
+│           ├── appsettings.Development.json
+│           └── appsettings.json
+├── obj
+│   ├── Debug
+│   │   └── net8.0
+│   │       ├── ToDoApi.AssemblyInfo.cs
+│   │       ├── ToDoApi.AssemblyInfoInputs.cache
+│   │       ├── ToDoApi.GeneratedMSBuildEditorConfig.editorconfig
+│   │       ├── ToDoApi.GlobalUsings.g.cs
+│   │       ├── ToDoApi.MvcApplicationPartsAssemblyInfo.cache
+│   │       ├── ToDoApi.MvcApplicationPartsAssemblyInfo.cs
+│   │       ├── ToDoApi.assets.cache
+│   │       ├── ToDoApi.csproj.AssemblyReference.cache
+│   │       ├── ToDoApi.csproj.CoreCompileInputs.cache
+│   │       ├── ToDoApi.csproj.FileListAbsolute.txt
+│   │       ├── ToDoApi.csproj.Up2Date
+│   │       ├── ToDoApi.dll
+│   │       ├── ToDoApi.genruntimeconfig.cache
+│   │       ├── ToDoApi.pdb
+│   │       ├── apphost
+│   │       ├── ref
+│   │       │   └── ToDoApi.dll
+│   │       ├── refint
+│   │       │   └── ToDoApi.dll
+│   │       ├── staticwebassets
+│   │       │   ├── msbuild.build.ToDoApi.props
+│   │       │   ├── msbuild.buildMultiTargeting.ToDoApi.props
+│   │       │   └── msbuild.buildTransitive.ToDoApi.props
+│   │       └── staticwebassets.build.json
+│   ├── ToDoApi.csproj.nuget.dgspec.json
+│   ├── ToDoApi.csproj.nuget.g.props
+│   ├── ToDoApi.csproj.nuget.g.targets
+│   ├── project.assets.json
+│   └── project.nuget.cache
+└── tree.txt
+
+13 directories, 47 files
